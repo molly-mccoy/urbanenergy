@@ -51,8 +51,6 @@ geopandas=1.1.3=py314hca03da5_0
 geopandas-base=1.1.3=py314hca03da5_0
 geos=3.10.6=h313beb8_0
 geotiff=1.7.4=hcc2882c_1
-gettext=0.25.1=h0087489_2
-gettext-tools=0.25.1=h47834f4_2
 giflib=6.1.3=h67968ee_1
 h11=0.16.0=py314hca03da5_1
 hdf4=4.2.13=h030b629_4
